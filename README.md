@@ -1,16 +1,14 @@
-# flame_tutorial
+# Flame Tutorial
 
-A new Flutter project.
+플레임을 처음 사용하는 비기너들을 위한 플러터 프로젝트 레포입니다.
 
-## Getting Started
+## QnA
 
-This project is a starting point for a Flutter application.
+```
+Q. You may ask, why are the images different sizes?
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A. As I was using the online tool to make the assets, I had trouble getting the
+detail I desired for the game in a 16x16 block.  The heart worked out in 32x32
+and the ground as well as the star were 64x64.  Regardless, the asset size does
+not matter for the game as we will resize as needed.
+```
